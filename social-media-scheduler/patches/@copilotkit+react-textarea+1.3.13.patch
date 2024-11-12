@@ -1,0 +1,11 @@
+diff --git a/node_modules/@copilotkit/react-textarea/tsconfig.json b/node_modules/@copilotkit/react-textarea/tsconfig.json
+index f7ba71e..6dbb536 100644
+--- a/node_modules/@copilotkit/react-textarea/tsconfig.json
++++ b/node_modules/@copilotkit/react-textarea/tsconfig.json
+@@ -1,5 +1,5 @@
+ {
+-  "extends": "../../utilities/tsconfig/react-library.json",
++  // "extends": "../../utilities/tsconfig/react-library.json",
+   "include": ["."],
+   "exclude": [
+     "dist",
